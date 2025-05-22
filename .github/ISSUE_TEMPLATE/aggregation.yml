@@ -1,0 +1,11 @@
+name: "📌aggregation of an an exp"
+description: aggregate all related issues of an `exp`!
+title: "📌[exp-name] aggregation"
+labels: "aggregation"
+body:
+  - type: textarea
+    attributes:
+      label: 📌 Description
+      description: >-
+        You can create aggregation starts with existing issues at the top of this issue, 
+        or aggregate further issues later.

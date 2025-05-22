@@ -1,0 +1,13 @@
+name: "🙏Help wanted"
+description: Feel puzzled of `exp`? create issue here and assign to author of correspondent `exp`!
+title: "🙏Help wanted of [exp-name], details: [sketch]"
+labels: "help wanted"
+body:
+  - type: textarea
+    attributes:
+      label: 🙏 Description
+      description: >-
+        Remember you had searched out issues around this `exp` without same/similar topic.  
+        When you spent 5 minutes to think and ready, so that others will invest equal time to support you.
+    validations:
+      required: true
