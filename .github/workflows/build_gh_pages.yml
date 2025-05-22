@@ -10,7 +10,7 @@ jobs:
   docs-changes:
     runs-on: ubuntu-latest
     permissions:
-      pull-requests: read
+      contents: read
     outputs:
       docs: ${{ steps.filter.outputs.docs }}
     steps:
