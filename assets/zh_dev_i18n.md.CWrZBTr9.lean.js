@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,aj as n}from"./chunks/framework.CIu37z2K.js";const f=JSON.parse('{"title":"🌏 i18n","description":"","frontmatter":{},"headers":[],"relativePath":"zh/dev/i18n.md","filePath":"zh/dev/i18n.md"}'),o={name:"zh/dev/i18n.md"},r=n("",4),s=[r];function i(c,_,d,l,h,u){return a(),t("div",null,s)}const m=e(o,[["render",i]]);export{f as __pageData,m as default};
