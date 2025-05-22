@@ -19,12 +19,12 @@ export default defineConfig({
         root: {
           label: '简体中文',
           lang: 'zh',
-          link: '/locate/zh'
+          link: '/locale/zh'
         },
         en: {
           label: 'English',
           lang: 'en',
-          link: '/locate/en'
+          link: '/locale/en'
         }
       },
 
@@ -43,27 +43,28 @@ export default defineConfig({
             }
         ],
         nav: [
+            {text: "📜Contribute", link: "/locale/zh/dev/contribute"},
         ],
         footer: {
             message: `awesome-nijigen-ai-exp Released under the MIT License/CC0-1.0 Licence. (latest: ${version})`,
             copyright: 'Copyright © 2025-present @jasoneri & awesome-nijigen-ai-exp Contributors',
         },
         sidebar: {
-            "/locate/zh/": [
+            "/locale/zh/": [
                 {text: "Developer",items: [
-                        {text: "Contribute",link: "/locate/zh/dev/contribute",},
-                        {text: "I18n",link: "/locate/zh/dev/i18n",}
+                        {text: "Contribute",link: "/locale/zh/dev/contribute",},
+                        {text: "I18n",link: "/locale/zh/dev/i18n",}
                     ]},
                 {text: "exp",items: [
-                        {text: "sample",link: "/locate/zh/exp/sample",},
+                        {text: "sample",link: "/locale/zh/exp/sample",},
                     ],},],
-            "/locate/en/": [
+            "/locale/en/": [
                 {text: "Developer",items: [
-                        {text: "Contribute",link: "/locate/en/dev/contribute",},
-                        {text: "I18n",link: "/locate/en/dev/i18n",}
+                        {text: "Contribute",link: "/locale/en/dev/contribute",},
+                        {text: "I18n",link: "/locale/en/dev/i18n",}
                     ]},
                 {text: "exp",items: [
-                        {text: "sample",link: "/locate/en/exp/sample",},
+                        {text: "sample",link: "/locale/en/exp/sample",},
                     ],},]
         }
     },

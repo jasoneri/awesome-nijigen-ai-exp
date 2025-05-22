@@ -1,10 +1,6 @@
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=7000&color=F7A01C&center=true&vCenter=true&width=600&lines=awesome-nijigen-ai-exp" alt="Typing SVG" /></a>
-
 <p align="center">
-  <a href="https://jasoneri.github.io/awesome-nijigen-ai-exp/locale/zh/dev/contribute">📜Contribute-Guide</a>
-  </p>
-</div>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=7000&color=F7A01C&center=true&vCenter=true&width=600&lines=awesome-nijigen-ai-exp" alt="Typing SVG" /></a>
+</p>
 
 ## 📑Introduction
 
@@ -20,6 +16,12 @@ Let's level up together by sharing our experiences! 🎿
 ### 🀄️Intermediate
 
 ### 🏆Advanced
+
+## Contributors
+
+<a href="https://github.com/jasoneri/awesome-nijigen-ai-exp/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=jasoneri/awesome-nijigen-ai-exp" />
+</a>
 
 ---
 ![awesome-nijigen-ai-exp](https://count.getloli.com/get/@awesome-nijigen-ai-exp?theme=rule34)

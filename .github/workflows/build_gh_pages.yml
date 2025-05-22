@@ -35,7 +35,7 @@ jobs:
       - name: translate-by-dify
         run: |
           cd docs
-          # translation by dify from locate/zh to locate/${{ matrix.lang }}
+          # translation by dify from locale/zh to locale/${{ matrix.lang }}
 
   pages-deploy:
     runs-on: ubuntu-latest

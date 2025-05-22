@@ -1,5 +1,5 @@
-name: "📌aggregation of an an exp"
-description: aggregate all related issues of an `exp`!
+name: "📌Aggregation of exp"
+description: Aggregate all related issues of correspondent `exp`!
 title: "📌[exp-name] aggregation"
 labels: "aggregation"
 body:

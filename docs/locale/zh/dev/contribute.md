@@ -10,6 +10,7 @@
 - [Pull Request](#pull-request)
   - [文档](#文档)
   - [代码](#代码)
+  - [测试](#测试)
 
 ## Pull Request
 
@@ -23,8 +24,9 @@
 
 ### 文档
 
-文档皆存放在 docs 目录上，仅限 markdown
-撰写文档请使用规范的书面化用语，遵照 Markdown 语法，以及 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines) 中的规范。
+文档皆存放在 docs 目录上，仅限 markdown  
+撰写文档请使用规范的书面化用语，遵照 Markdown 语法，  
+以及 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines) 中的规范。
 
 ::: tip 除 markdown 通用语法外可使用 [vitepress-markdown-extensions](https://vitepress.dev/guide/markdown)
 :::
@@ -35,3 +37,12 @@
 
 如附带代码，需放在仓库根目录 code 下新建同名 `exp` 目录上  
 这是由于 docs 目录会通过 workflow 自动构筑成 vitepress 的 github-pages，避免发生异常，统一遵守规范
+
+### 测试
+
+安装 nodejs 最新版，执行以下代码本地查看效果
+
+```bash
+cd docs && npm i
+npm run docs:dev
+```
