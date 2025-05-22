@@ -46,3 +46,20 @@
 cd docs && npm i
 npm run docs:dev
 ```
+
+<script src="https://giscus.app/client.js"
+        data-repo="jasoneri/awesome-nijigen-ai-exp"
+        data-repo-id="R_kgDOOuGPIw"
+        data-category="General"
+        data-category-id="DIC_kwDOOuGPI84CqdJd"
+        data-mapping="title"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>

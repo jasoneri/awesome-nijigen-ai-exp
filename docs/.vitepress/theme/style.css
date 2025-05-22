@@ -22,3 +22,9 @@
   );
   --vp-home-hero-image-filter: blur(40px);
 }
+
+.giscus-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+}
