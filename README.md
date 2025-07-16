@@ -11,7 +11,7 @@
 > [!Important]
 > Interest is the best motivation
 
-This is a repository for sharing AI experiences related to `nijigen/二次元`.  
+This is a repository for sharing AI experiences, almost related to `nijigen/二次元`.  
 Each shared experience is considered an `exp`.  
 Let's level up together by sharing our experiences! 🎿  
 
@@ -25,6 +25,7 @@ Not sign for done
 ### 🀄️Intermediate
 
 + [🚧Set code into PC/Phone space by machine recognition](https://jasoneri.github.io/awesome-nijigen-ai-exp/zh/exp/set-code-into-space)
++ [手游自动流程日常化](docs\zh\exp\auto_game_daily_process\index.md)
 
 ### 🏆Advanced
 
