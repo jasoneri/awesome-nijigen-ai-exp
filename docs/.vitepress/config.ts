@@ -9,6 +9,7 @@ export default defineConfig({
     title: "awesome-nijigen-ai-exp",
     description: "",
     base: `/awesome-nijigen-ai-exp`,
+    ignoreDeadLinks: true,
 
     head: [
         ['meta', {property: 'og:site_name', content: 'awesome-nijigen-ai-exp'}],
