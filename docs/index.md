@@ -13,6 +13,8 @@ Let's level up together by sharing our experiences! 🎿
 
 ### 🎯Beginner
 
++ [✅fgo活动羁绊特性从者](zh/exp/fgo-activity-ties-servants)
+
 ### 🀄️Intermediate
 
 + [手游自动流程日常化](zh/exp/auto_game_daily_process)
