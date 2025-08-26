@@ -21,11 +21,14 @@ Not sign for done
 ### 🎯Beginner
 
 + [🚧Tieba Intelligent Agent](https://jasoneri.github.io/awesome-nijigen-ai-exp/zh/exp/tieba-Intelligent-agent)
++ [✅fgo活动羁绊特性从者](https://jasoneri.github.io/awesome-nijigen-ai-exp/zh/exp/fgo-activity-ties-servants)
+
 
 ### 🀄️Intermediate
 
 + [🚧Set code into PC/Phone space by machine recognition](https://jasoneri.github.io/awesome-nijigen-ai-exp/zh/exp/set-code-into-space)
-+ [手游自动流程日常化](docs\zh\exp\auto_game_daily_process\index.md)
++ [手游自动流程日常化](docs/zh/exp/auto_game_daily_process/index.md)
++ [自动破解加密](docs/zh/exp/hack_hitomi/index.md)
 
 ### 🏆Advanced
 

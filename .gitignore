@@ -186,3 +186,5 @@ codecov*
 conf.yml
 # self/desc created html
 docs/*.html
+# temp
+code/*

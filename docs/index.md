@@ -7,7 +7,7 @@
 > [!Important]
 > Interest is the best motivation
 
-This is a repository for sharing AI experiences related to `nijigen/二次元`.  
+This is a repository for sharing AI experiences alomost related to `nijigen/二次元`.  
 Each shared experience is considered an `exp`.  
 Let's level up together by sharing our experiences! 🎿  
 
@@ -15,7 +15,8 @@ Let's level up together by sharing our experiences! 🎿
 
 ### 🀄️Intermediate
 
-+ [手游自动流程日常化](zh/exp/auto_game_daily_process/index)
++ [手游自动流程日常化](zh/exp/auto_game_daily_process)
++ [ai自动破解hitomi加密](zh/exp/hack_hitomi)
 
 ### 🏆Advanced
 
