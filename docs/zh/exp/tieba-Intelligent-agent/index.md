@@ -12,7 +12,7 @@
 
 ### 2.使用 Agent 处理
 
-1. promot
+1. prompt
 
 ```text
 

@@ -3,11 +3,11 @@
 
 ## 由ai生成并持续优化改进的蓝图
 
-[蓝图文档](archetypes) 基于`augment`  
+[蓝图文档](/zh/exp/auto_game_daily_process/archetypes) 基于`augment`  
 
-## 调整记录摘要
+## 调整记录
 
-::: details
+::: details 摘要
 搜集各种能活用到的第三方库而非自制轮子，基于此分析方案python实现的可行性，以及代码量，难易程度；
 对方案进行适当优化调准；
 
