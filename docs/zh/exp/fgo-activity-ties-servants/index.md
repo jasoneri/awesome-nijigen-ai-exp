@@ -9,12 +9,7 @@
 
 
 ::: details 特殊说明
-- 斯卡哈仅有灵衣「穿刺兔女郎」持有该特性。
-- 两仪式仅有灵衣「斩首兔女郎」持有该特性。
-- 保罗·班扬仅有灵衣「疯狂的兔子」持有该特性。
-- 鬼女红叶仅有战斗形象1持有该特性。
 - 杀生院祈荒(MoonCancer)、克洛伊·冯·爱因兹贝伦(Avenger)、BB迪拜、特诺奇蒂特兰、娄希仅有战斗形象3持有该特性。
-- 玉兔仅有战斗形象1、战斗形象3、「简易灵衣：隐身的太阳眼镜」持有该特性。
 :::
 
 
@@ -24,23 +19,13 @@
 
 
 ::: details 特殊说明
-- 亨利·杰基尔＆海德仅有人格为亨利·杰基尔时持有该属性。
 - 雨之魔女梣仅有战斗形象1持有该属性。
-- 响＆千键、美游·艾德费尔特(Lancer)仅有战斗形象1、2持有该属性。
-- U－奥尔加玛丽仅有战斗形象3持有该属性。
 :::
 
 
 ## [活人](https://fgo.wiki/w/%E7%89%B9%E6%80%A7%EF%BC%9A%E6%B4%BB%E5%9C%A8%E5%BD%93%E4%B8%8B%E7%9A%84%E4%BA%BA%E7%B1%BB)
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 0.25rem;"><img src="https://media.fgo.wiki/thumb/f/fa/Servant286.jpg/64px-Servant286.jpg" width="64" height="70" alt="活人" style="background-color: #fff; border: 1px solid #e9ecef; border-radius: 4px; padding: 2px;" loading="lazy"><img src="https://media.fgo.wiki/thumb/8/8c/Servant182.jpg/64px-Servant182.jpg" width="64" height="70" alt="活人" style="background-color: #fff; border: 1px solid #e9ecef; border-radius: 4px; padding: 2px;" loading="lazy"><img src="https://media.fgo.wiki/thumb/e/e7/Servant356.jpg/64px-Servant356.jpg" width="64" height="70" alt="活人" style="background-color: #fff; border: 1px solid #e9ecef; border-radius: 4px; padding: 2px;" loading="lazy"><img src="https://media.fgo.wiki/thumb/6/69/Servant388.jpg/64px-Servant388.jpg" width="64" height="70" alt="活人" style="background-color: #fff; border: 1px solid #e9ecef; border-radius: 4px; padding: 2px;" loading="lazy"><img src="https://media.fgo.wiki/thumb/4/41/Servant418.jpg/64px-Servant418.jpg" width="64" height="70" alt="活人" style="background-color: #fff; border: 1px solid #e9ecef; border-radius: 4px; padding: 2px;" loading="lazy"><img src="https://media.fgo.wiki/thumb/9/9c/Servant001.jpg/64px-Servant001.jpg" width="64" height="70" alt="活人" style="background-color: #fff; border: 1px solid #e9ecef; border-radius: 4px; padding: 2px;" loading="lazy"></div>
-
-
-::: details 特殊说明
-- 响＆千键仅有战斗形象1、战斗形象2持有该特性。
-- U－奥尔加玛丽仅有战斗形象3持有该特性。
-- 玉兔仅有战斗形象1、战斗形象2、「简易灵衣：隐身的太阳眼镜」持有该特性。
-:::
 
 
 ## 兽科 x 秩序善
