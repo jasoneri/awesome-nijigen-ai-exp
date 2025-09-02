@@ -1,6 +1,8 @@
 # 【国服】BB主办☆名流夏日体验！ ～逆袭的迪拜
 
 ::: info 此页面会随着活动/牵绊礼装的变更而进行人工维护更新  
+除当期5星和码头外，默认20%，同特性借一出一即有60%  
+注：此页面仅关注活动羁绊加成，常规羁绊加成看 Chaldea app 更详细
 :::
 
 ## [兽科](https://fgo.wiki/w/%E7%89%B9%E6%80%A7%EF%BC%9A%E5%85%BD%E7%A7%91)
@@ -9,7 +11,7 @@
 
 
 ::: details 特殊说明
-- 杀生院祈荒(MoonCancer)、克洛伊·冯·爱因兹贝伦(Avenger)、BB迪拜、特诺奇蒂特兰、娄希仅有战斗形象3持有该特性。
+- 杀生院祈荒(MoonCancer)、克洛伊·冯·爱因兹贝伦(Avenger)、BB迪拜、特诺奇蒂特兰仅有战斗形象3持有该特性。
 :::
 
 
@@ -28,6 +30,10 @@
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 0.25rem;"><img src="https://media.fgo.wiki/thumb/f/fa/Servant286.jpg/64px-Servant286.jpg" width="64" height="70" alt="活人" style="background-color: #fff; border: 1px solid #e9ecef; border-radius: 4px; padding: 2px;" loading="lazy"><img src="https://media.fgo.wiki/thumb/8/8c/Servant182.jpg/64px-Servant182.jpg" width="64" height="70" alt="活人" style="background-color: #fff; border: 1px solid #e9ecef; border-radius: 4px; padding: 2px;" loading="lazy"><img src="https://media.fgo.wiki/thumb/e/e7/Servant356.jpg/64px-Servant356.jpg" width="64" height="70" alt="活人" style="background-color: #fff; border: 1px solid #e9ecef; border-radius: 4px; padding: 2px;" loading="lazy"><img src="https://media.fgo.wiki/thumb/6/69/Servant388.jpg/64px-Servant388.jpg" width="64" height="70" alt="活人" style="background-color: #fff; border: 1px solid #e9ecef; border-radius: 4px; padding: 2px;" loading="lazy"><img src="https://media.fgo.wiki/thumb/4/41/Servant418.jpg/64px-Servant418.jpg" width="64" height="70" alt="活人" style="background-color: #fff; border: 1px solid #e9ecef; border-radius: 4px; padding: 2px;" loading="lazy"><img src="https://media.fgo.wiki/thumb/9/9c/Servant001.jpg/64px-Servant001.jpg" width="64" height="70" alt="活人" style="background-color: #fff; border: 1px solid #e9ecef; border-radius: 4px; padding: 2px;" loading="lazy"></div>
 
 
+## [术](https://fgo.wiki/w/Caster)
+
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 0.25rem;"><img src="https://media.fgo.wiki/thumb/d/d0/Servant130.jpg/64px-Servant130.jpg" width="64" height="70" alt="术" style="background-color: #fff; border: 1px solid #e9ecef; border-radius: 4px; padding: 2px;" loading="lazy"><img src="https://media.fgo.wiki/thumb/4/46/Servant145.jpg/64px-Servant145.jpg" width="64" height="70" alt="术" style="background-color: #fff; border: 1px solid #e9ecef; border-radius: 4px; padding: 2px;" loading="lazy"><img src="https://media.fgo.wiki/thumb/0/04/Servant150.jpg/64px-Servant150.jpg" width="64" height="70" alt="术" style="background-color: #fff; border: 1px solid #e9ecef; border-radius: 4px; padding: 2px;" loading="lazy"><img src="https://media.fgo.wiki/thumb/e/e4/Servant175.jpg/64px-Servant175.jpg" width="64" height="70" alt="术" style="background-color: #fff; border: 1px solid #e9ecef; border-radius: 4px; padding: 2px;" loading="lazy"><img src="https://media.fgo.wiki/thumb/6/6f/Servant249.jpg/64px-Servant249.jpg" width="64" height="70" alt="术" style="background-color: #fff; border: 1px solid #e9ecef; border-radius: 4px; padding: 2px;" loading="lazy"><img src="https://media.fgo.wiki/thumb/4/4c/Servant319.jpg/64px-Servant319.jpg" width="64" height="70" alt="术" style="background-color: #fff; border: 1px solid #e9ecef; border-radius: 4px; padding: 2px;" loading="lazy"><img src="https://media.fgo.wiki/thumb/c/c4/Servant358.jpg/64px-Servant358.jpg" width="64" height="70" alt="术" style="background-color: #fff; border: 1px solid #e9ecef; border-radius: 4px; padding: 2px;" loading="lazy"><img src="https://media.fgo.wiki/thumb/0/08/Servant385.jpg/64px-Servant385.jpg" width="64" height="70" alt="术" style="background-color: #fff; border: 1px solid #e9ecef; border-radius: 4px; padding: 2px;" loading="lazy"></div>
+
 ## 兽科 x 秩序善
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 0.25rem;"><img src="https://media.fgo.wiki/thumb/8/8e/Servant422.jpg/64px-Servant422.jpg" width="64" height="70" alt="兽科 x 秩序善" style="background-color: #fff; border: 1px solid #e9ecef; border-radius: 4px; padding: 2px;" loading="lazy"></div>
@@ -40,6 +46,6 @@
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 0.25rem;"><img src="https://media.fgo.wiki/thumb/8/8c/Servant182.jpg/64px-Servant182.jpg" width="64" height="70" alt="秩序善 x 活人" style="background-color: #fff; border: 1px solid #e9ecef; border-radius: 4px; padding: 2px;" loading="lazy"><img src="https://media.fgo.wiki/thumb/4/41/Servant418.jpg/64px-Servant418.jpg" width="64" height="70" alt="秩序善 x 活人" style="background-color: #fff; border: 1px solid #e9ecef; border-radius: 4px; padding: 2px;" loading="lazy"><img src="https://media.fgo.wiki/thumb/9/9c/Servant001.jpg/64px-Servant001.jpg" width="64" height="70" alt="秩序善 x 活人" style="background-color: #fff; border: 1px solid #e9ecef; border-radius: 4px; padding: 2px;" loading="lazy"></div>
 
-## 活人 x 兽科 x 秩序善
+## 秩序善 x 术
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 0.25rem;"></div>
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 0.25rem;"><img src="https://media.fgo.wiki/thumb/d/d0/Servant130.jpg/64px-Servant130.jpg" width="64" height="70" alt="秩序善 x 术" style="background-color: #fff; border: 1px solid #e9ecef; border-radius: 4px; padding: 2px;" loading="lazy"><img src="https://media.fgo.wiki/thumb/4/46/Servant145.jpg/64px-Servant145.jpg" width="64" height="70" alt="秩序善 x 术" style="background-color: #fff; border: 1px solid #e9ecef; border-radius: 4px; padding: 2px;" loading="lazy"><img src="https://media.fgo.wiki/thumb/0/04/Servant150.jpg/64px-Servant150.jpg" width="64" height="70" alt="秩序善 x 术" style="background-color: #fff; border: 1px solid #e9ecef; border-radius: 4px; padding: 2px;" loading="lazy"><img src="https://media.fgo.wiki/thumb/0/08/Servant385.jpg/64px-Servant385.jpg" width="64" height="70" alt="秩序善 x 术" style="background-color: #fff; border: 1px solid #e9ecef; border-radius: 4px; padding: 2px;" loading="lazy"></div>
