@@ -1,12 +1,9 @@
 ## 【国服】波赫约拉的平安夜 怀梦的圣诞老人与胡桃夹子
 
-![img](https://media.fgo.wiki/thumb/0/03/%E6%B3%A2%E8%B5%AB%E7%BA%A6%E6%8B%89%E7%9A%84%E5%B9%B3%E5%AE%89%E5%A4%9C_jp.png/640px-%E6%B3%A2%E8%B5%AB%E7%BA%A6%E6%8B%89%E7%9A%84%E5%B9%B3%E5%AE%89%E5%A4%9C_jp.png)
+![img](https://media.fgo.wiki/3/34/%E6%B3%A2%E8%B5%AB%E7%BA%A6%E6%8B%89%E7%9A%84%E5%9C%A3%E8%AF%9E%E5%89%8D%E5%A4%9C.png)
 
 
-::: info 此页面会随着活动/牵绊礼装的变更而进行人工维护更新  
-除当期5星为50%和码头外，默认20%，同特性借一出一即有60%可平替双户口  
-注：此页面仅关注活动羁绊加成，常规羁绊加成看 Chaldea app 更详细  
-:::
+c
 
 ::: info [下一期](index2)
 :::

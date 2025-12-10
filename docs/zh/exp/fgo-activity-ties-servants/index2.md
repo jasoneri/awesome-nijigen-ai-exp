@@ -1,11 +1,12 @@
 ## 【国服】Space Phantasmoon 另一个圣诞节 深夜中的小幻幻请安
 
 
-![img](https://media.fgo.wiki/thumb/8/84/Space_Phantasmoon_jp.png/640px-Space_Phantasmoon_jp.png)
+![img](https://media.fgo.wiki/8/84/Space_Phantasmoon_jp.png)
 
 
 ::: info 此页面会随着活动/牵绊礼装的变更而进行人工维护更新  
-除当期5星为50%和码头外，默认20%，同特性借一出一即有60%可平替双户口  
+除当期5星和活动赠送从者为50%和码头外，默认20%，  
+同特性羁绊礼装借一出一即有60%可平替双户口  
 注：此页面仅关注活动羁绊加成，常规羁绊加成看 Chaldea app 更详细  
 :::
 
